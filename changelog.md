@@ -8,4 +8,4 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 ## [0.0.1] - 17-05-2023
 
 ### added
-    added changelog.md
+- added changelog.md
